@@ -1,0 +1,10 @@
+cat
+frog
+nitin
+scoop
+malayalam
+abaaab
+a
+x
+.
+Hello Grader.
